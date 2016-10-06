@@ -1,0 +1,25 @@
+{
+  "name": "forman",
+  "version": "0.0.0",
+  "description": "Library that help you create great form with redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sberned/forman.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "form",
+    "validation"
+  ],
+  "author": "Alexey Savelev, Evgeny Dolgy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sberned/forman/issues"
+  },
+  "homepage": "https://github.com/Sberned/forman#readme"
+}
